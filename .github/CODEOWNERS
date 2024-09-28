@@ -1,0 +1,4 @@
+# This CODEOWNERS file requires @niko-ramirez to review all changes
+
+# Require review for all files in the repository
+* @niko-ramirez
